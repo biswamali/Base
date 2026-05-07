@@ -1,7 +1,7 @@
 # Base
 ...
-Base is only for builders
-base is obly for traders 
-base is only for creatoes
-base is only for base believers
+base is only for builders,
+base is only for traders, 
+base is only for creatoes,
+base is only for base believers,
 ...
